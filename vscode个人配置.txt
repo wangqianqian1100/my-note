@@ -1,0 +1,29 @@
+Auto Close Tag	自动闭合HTML标签
+Auto Import	Typescript自动import提示
+Auto Rename Tag	修改HTML标签时，自动修改匹配的标签
+Bracket Pair Colorizer	用不同颜色高亮显示匹配的括号
+Color Highlight	颜色值在代码中高亮显示
+File Peek	根据路径字符串，快速定位到文件
+Git Blame	在状态栏显示当前行的Git信息
+GitLens	显示文件最近的commit和作者，显示当前行commit信息
+Guides	高亮缩进基准线
+HTML CSS Class Completion	CSS class提示
+HTML CSS Support	css提示（支持vue）
+HTMLHint	HTML格式提示
+htmltagwrap	包裹HTML
+Indenticator	缩进高亮
+IntelliSense for css class names	css class输入提示
+JavaScript (ES6) code snippets	ES6语法代码段
+JSON Tools	格式化和压缩JSON
+Less IntelliSense	less变量与混合提示
+Path Autocomplete	路径完成提示
+Path Intellisense	另一个路径完成提示
+SVG Viewer	SVG查看器
+VueHelper	Vue2代码段（包括Vue2 api、vue-router2、vuex2）
+open in browser    打开游览器
+gitignore	.gitignore文件语法
+npm	运行npm命令
+vetur	目前比较好的Vue语法高亮
+	"powermode.enabled":true,//开启特效
+ 	"powermode.enableShake": true,//这个代表桌面是否震动
+               "powermode.presets": "exploding-rift",//这个是样式
